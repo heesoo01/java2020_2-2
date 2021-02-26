@@ -1,0 +1,1 @@
+Executive, Manager, Member, Test class가 이번 4주차 도전문제 클래스입니다. 
